@@ -1,0 +1,7 @@
+editdistance==0.5.2
+numpy==1.17.4
+numpydoc==0.8.0
+resampy==0.2.2
+scipy==1.5.1
+SoundFile==0.10.2
+ninja==1.8.2.post2
